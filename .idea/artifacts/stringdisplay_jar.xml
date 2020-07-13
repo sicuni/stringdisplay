@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stringdisplay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stringdisplay_jar</output-path>
+    <root id="archive" name="stringdisplay.jar">
+      <element id="module-output" name="stringdisplay" />
+    </root>
+  </artifact>
+</component>
